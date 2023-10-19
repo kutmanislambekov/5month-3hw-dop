@@ -1,0 +1,1 @@
+export const SINGLE_TRIGGER = 'SINGLE_TRIGGER';
